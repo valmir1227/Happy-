@@ -13,8 +13,6 @@
  <img src="https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png?raw=true" alt="PRs welcome!" />
 <br>
 
-    #Happy
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
