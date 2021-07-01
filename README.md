@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color="white"> 
     <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/ca8d1c909a0bd96ba206577c8559f1be706d6496/.github/logo.svg" />
 </h1>
 
