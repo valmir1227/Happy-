@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-discovery/88348b66aa68676858bb260fb0c3bd905d2b4332/.github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png?raw=true" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://camo.githubusercontent.com/5eab8d204368f6fc340d6345944e827d09be793983ee6157b5435599986d2eb3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d505273266d6573736167653d77656c636f6d6526636f6c6f723d313543334436266c6162656c436f6c6f723d303030303030" width="100%">
 </p>
 
 ## 🚀 Tecnologias
