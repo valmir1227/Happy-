@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-discovery/88348b66aa68676858bb260fb0c3bd905d2b4332/.github/logo.svg" />
+Happy
 </h1>
 
 <p align="center">
